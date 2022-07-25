@@ -1,6 +1,6 @@
-# R-testing
+## Example of README.md
 This is for test purposes
-*Yes it is*
+*Yes*
 **Bold**
 * Bullet 1
 * Bullet 2
